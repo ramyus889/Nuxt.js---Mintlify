@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import UseMain from "./components/UseMain.vue";
+</script>
 <template>
-  <div class="text-6xl">UsePractice</div>
+  <div class="">
+    <UseMain />
+  </div>
 </template>
